@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2019-08-05 08:18:33</change_date>
+        <changed_by display_value="Anders Bogsjö">c5a57d72db323300bf627a613996191f</changed_by>
+        <content display_value="View Report">b108efb10b5013001e684ac3b6673a47</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>anders.bogsjo</sys_created_by>
+        <sys_created_on>2019-08-05 08:18:33</sys_created_on>
+        <sys_id>1e0f714adb033300bf627a6139961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2019-08-05 08:18:33</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>gsw_change_log_1e0f714adb033300bf627a6139961929</sys_update_name>
+        <sys_updated_by>anders.bogsjo</sys_updated_by>
+        <sys_updated_on>2019-08-05 08:18:33</sys_updated_on>
+        <type>1</type>
+    </gsw_change_log>
+</record_update>
